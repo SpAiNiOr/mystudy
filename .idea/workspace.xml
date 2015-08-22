@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4b819ac0-b016-4215-a04f-b11f92e78884" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/learning/RegularExpression/checkword.py" afterPath="$PROJECT_DIR$/learning/RegularExpression/checkword.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/learning/RegularExpression/Pig_Latin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mystudy.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,11 +36,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkword.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="checkword.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/learning/RegularExpression/checkword.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4251497">
-              <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Pig_Latin.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/learning/RegularExpression/Pig_Latin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.39520958">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,6 +73,7 @@
       <list>
         <option value="$PROJECT_DIR$/learning/func.py" />
         <option value="$PROJECT_DIR$/learning/RegularExpression/checkword.py" />
+        <option value="$PROJECT_DIR$/learning/RegularExpression/Pig_Latin.py" />
       </list>
     </option>
   </component>
@@ -441,8 +453,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/learning/RegularExpression/checkword.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4251497">
-          <caret line="19" column="78" selection-start-line="19" selection-start-column="78" selection-end-line="19" selection-end-column="78" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/learning/RegularExpression/Pig_Latin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39520958">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
