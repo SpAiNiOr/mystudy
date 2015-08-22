@@ -17,7 +17,7 @@ def translator(string):
     return string
     # will get the result "['w', 'o']" . don't use this way
     """
-
+    # the right way is to use slice to cut user input into different sections.
     pig = string[0:1]
     string = string[1:]
     string = string + pig + 'ay'
