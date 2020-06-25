@@ -1,0 +1,11 @@
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.deps.json
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.json
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.runtimeconfig.dev.json
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.dll
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\bin\Debug\netcoreapp2.2\ConsoleGame.pdb
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.csprojAssemblyReference.cache
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.csproj.CoreCompileInputs.cache
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfoInputs.cache
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.AssemblyInfo.cs
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.dll
+I:\Learning\mystudy\learning\csharp\quiz\ConsoleGame\obj\Debug\netcoreapp2.2\ConsoleGame.pdb

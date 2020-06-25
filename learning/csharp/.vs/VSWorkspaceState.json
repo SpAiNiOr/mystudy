@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\class"
+    "\\class",
+    "\\quiz"
   ],
-  "SelectedNode": "\\Book.cs",
+  "SelectedNode": "\\quiz\\ChooseOwnAdven.cs",
   "PreviewInSolutionExplorer": false
 }
