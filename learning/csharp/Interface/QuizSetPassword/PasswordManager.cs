@@ -2,7 +2,7 @@ using System;
 
 namespace SavingInterface
 {
-    class PasswordManager : IDisplayable
+    class PasswordManager : IDisplayable, IResetable
     {
         private string password;
         private string Password

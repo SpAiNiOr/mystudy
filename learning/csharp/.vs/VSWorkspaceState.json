@@ -2,12 +2,13 @@
   "ExpandedNodes": [
     "",
     "\\class",
-    "\\class\\Forest",
-    "\\class\\ObjectOfAffection",
-    "\\quiz",
+    "\\class\\Polymorphism",
+    "\\Inheritance",
+    "\\Interface",
+    "\\Interface\\QuizSetPassword",
     "\\quiz\\ConsoleGame",
     "\\quiz\\Spaceman"
   ],
-  "SelectedNode": "\\quiz\\Spaceman\\Program.cs",
+  "SelectedNode": "\\class\\Polymorphism\\Diary.cs",
   "PreviewInSolutionExplorer": false
 }
