@@ -1,0 +1,10 @@
+{
+  "version": "0.2.2",
+  "tasks": [
+    {
+      "taskName": "任务-Spaceman",
+      "appliesTo": "quiz/Spaceman/",
+      "type": "launch"
+    }
+  ]
+}

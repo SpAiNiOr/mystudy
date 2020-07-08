@@ -2,8 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\class",
-    "\\quiz"
+    "\\class\\Forest",
+    "\\class\\ObjectOfAffection",
+    "\\quiz",
+    "\\quiz\\ConsoleGame",
+    "\\quiz\\Spaceman"
   ],
-  "SelectedNode": "\\quiz\\ExquisiteCorpse.cs",
+  "SelectedNode": "\\quiz\\Spaceman\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

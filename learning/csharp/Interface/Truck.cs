@@ -10,6 +10,7 @@ namespace LearnInterfaces
         public double Speed
         { get; private set; }
 
+        //only can be set when initial the object by construtor. then can't be changed any more.
         public int Wheels
         { get; }
 
