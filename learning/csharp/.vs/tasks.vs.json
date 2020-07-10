@@ -5,6 +5,16 @@
       "taskName": "任务-Spaceman",
       "appliesTo": "quiz/Spaceman/",
       "type": "launch"
+    },
+    {
+      "taskName": "任务-Program",
+      "appliesTo": "Inheritance/SuperNatural/Program.cs",
+      "type": "launch"
+    },
+    {
+      "taskName": "任务-MagicalInheritancs",
+      "appliesTo": "Inheritance/SuperNatural/MagicalInheritancs.csproj",
+      "type": "msbuild"
     }
   ]
 }
