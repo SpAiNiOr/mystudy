@@ -2,15 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\class",
-    "\\class\\Forest",
-    "\\class\\ObjectOfAffection",
-    "\\class\\Polymorphism",
-    "\\Inheritance",
+    "\\class\\RoverControlCenter",
     "\\Inheritance\\SuperNatural",
     "\\Interface",
-    "\\quiz",
     "\\quiz\\ConsoleGame"
   ],
-  "SelectedNode": "\\Inheritance\\SuperNatural\\Program.cs",
+  "SelectedNode": "\\class\\RoverControlCenter\\RoverControlCenter.csproj",
   "PreviewInSolutionExplorer": false
 }
