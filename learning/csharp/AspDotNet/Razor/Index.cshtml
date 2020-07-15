@@ -1,0 +1,38 @@
+@page
+@model IndexModel
+@{
+  ViewData["Title"] = "Home page";
+}
+
+<!-- Create variable below -->
+
+@{
+  string stopLight = "yellow";
+}
+
+<div class="text-center">
+    <h1 class="display-5">Let's work with conditionals!</h1>
+    <hr>
+    <br>
+
+    <h4 style="color:blue;">Results from your if statement:</h4>
+    <br>
+    <!--   If Statement below -->
+    @if (stopLight == "green")
+  {
+    <h5>The stoplight is green, go!</h5>
+  }
+  else if (stopLight == "red")
+  {
+    <h5> The stoplight is red, stop!</h5>
+  }
+  else if (stopLight == "yellow")
+  {
+    <h5>The stoplight is yellow, slow down!</h5>
+  }
+  else
+  {
+    <h5>That stoplight doen't exist!</h5>
+  }
+
+</div>
