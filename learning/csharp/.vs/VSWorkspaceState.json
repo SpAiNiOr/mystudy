@@ -1,12 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\class",
-    "\\class\\RoverControlCenter",
-    "\\Inheritance\\SuperNatural",
-    "\\Interface",
-    "\\quiz\\ConsoleGame"
+    "\\List"
   ],
-  "SelectedNode": "\\class\\RoverControlCenter\\RoverControlCenter.csproj",
+  "SelectedNode": "\\Linq.cs",
   "PreviewInSolutionExplorer": false
 }
