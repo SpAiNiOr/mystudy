@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
+    "\\AspDotNet",
+    "\\AspDotNet\\ProgrammingLanguage",
+    "\\AspDotNet\\Razor",
+    "\\AspDotNet\\Razor\\Methods",
+    "\\AspDotNet\\Razor\\ResumeTemplater",
+    "\\AspDotNet\\Razor\\ResumeTemplater\\Models",
+    "\\AspDotNet\\Razor\\ResumeTemplater\\Pages",
+    "\\AspDotNet\\Razor\\ResumeTemplater\\Properties",
     "\\List"
   ],
-  "SelectedNode": "\\Linq.cs",
+  "SelectedNode": "\\AspDotNet\\Razor\\ResumeTemplater\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
