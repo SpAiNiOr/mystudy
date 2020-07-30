@@ -2,15 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\AspDotNet",
-    "\\AspDotNet\\ProgrammingLanguage",
     "\\AspDotNet\\Razor",
-    "\\AspDotNet\\Razor\\Methods",
-    "\\AspDotNet\\Razor\\ResumeTemplater",
     "\\AspDotNet\\Razor\\ResumeTemplater\\Models",
     "\\AspDotNet\\Razor\\ResumeTemplater\\Pages",
     "\\AspDotNet\\Razor\\ResumeTemplater\\Properties",
     "\\List"
   ],
-  "SelectedNode": "\\AspDotNet\\Razor\\ResumeTemplater\\appsettings.json",
+  "SelectedNode": "\\out2.cs",
   "PreviewInSolutionExplorer": false
 }
