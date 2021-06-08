@@ -1,0 +1,12 @@
+total 24
+drwxrwxr-x@ 10 ice.shi  staff  320 Jun  7 18:02 ..
+drwxrwxr-x@ 11 ice.shi  staff  352 Jun  7 17:59 .
+-rw-r--r--@  1 ice.shi  staff    0 Jun  7 17:59 punjabi.txt
+-rw-r--r--@  1 ice.shi  staff    0 Jun  7 17:59 bengali.txt
+-rw-rw-r--@  1 ice.shi  staff  145 Sep 25  2020 malay.txt
+-rw-rw-r--@  1 ice.shi  staff   50 Sep 22  2020 arabic.txt
+-rw-rw-r--@  1 ice.shi  staff    0 Sep 22  2020 chinese.txt
+-rw-rw-r--@  1 ice.shi  staff    0 Sep 22  2020 hebrew.txt
+-rw-rw-r--@  1 ice.shi  staff    0 Sep 22  2020 hindi.txt
+-rw-rw-r--@  1 ice.shi  staff    0 Sep 22  2020 japanese.txt
+-rw-rw-r--@  1 ice.shi  staff   13 Sep 22  2020 korean.txt
