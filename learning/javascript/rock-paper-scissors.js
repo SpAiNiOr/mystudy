@@ -6,7 +6,9 @@ const getUserChoice = userInput => {
       return userInput;
     } else if(userInput === 'scissors'){
       return userInput;
-    } else{
+    } else if (userInput === 'bomb'){
+      return userInput;
+    }else{
       return console.log('You need to choose one of \'rock\' \'paper\' \'scissors\'.');
     }
   };
@@ -53,6 +55,9 @@ const getUserChoice = userInput => {
       }else if (computerChoince === 'paper'){
         return 'User is winner!'
       }
+    }
+      if(userChoice ==='bomb'){
+      return 'User is winner';
     }
   }
   
